@@ -3,10 +3,11 @@ html {
     font-family: 'Rubik', sans-serif;
     font-size: 36px;
     line-height: 61px;
-
+    background-color: lightgoldenrodyellow;
 }
 #wrapper {
     width: 1208px;
+    color: teal;
     margin-left: auto;
     margin-right: auto;
 }
@@ -15,19 +16,24 @@ footer {
 }
 h1 {
     font-size: 200%;
+    color: cadetblue;
 }
 h2 {
     font-size: 180%;
+    color: darkslategrey;
 }
 h3 {
     font-size: 160%;
+    color: darkslategrey;
 }
 menu {
     padding-left: 0px;
+    color: darkgreen;
 }
 menu2 {
     padding-left: 0px;
     font-size: 80%;
+    color: darkgreen;
 }
 menu li {
     display: inline;
