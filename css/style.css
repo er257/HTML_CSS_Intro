@@ -3,7 +3,7 @@ html {
     font-family: 'Rubik', sans-serif;
     font-size: 36px;
     line-height: 61px;
-    background-color: lightgoldenrodyellow;
+    background-color: #fafad2;
 }
 #wrapper {
     width: 1208px;
@@ -40,4 +40,24 @@ menu li {
 }
 menu2 li {
     display: inline;
+}
+
+a:link {
+    color: darkgreen;
+    text-decoration: none;
+}
+
+a:visited {
+    color: darkgreen;
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkgreen;
+    text-decoration: none;
+}
+
+a:active {
+    color: darkgreen;
+    text-decoration: none;
 }
